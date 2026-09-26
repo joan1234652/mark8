@@ -1,0 +1,14 @@
+{
+  "_comment": "Mark 8 configuration. NEVER commit a real key — this file is gitignored by default.",
+  "gemini_api_key": "AQ.Ab8RN6I1PaE9JCYzgwlwrhlkIzoNflehIFT04GrdiIZ70quedw",
+  "openrouter_api_key": "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",
+  "elevenlabs_api_key": "",
+  "_provider_help": "Set llm_provider to 'openrouter' to use FREE OpenRouter models for text-based actions (code_helper, dev_agent, web_search, etc.). Set to 'gemini' to use Gemini for everything. Voice cloning with ELEVENLABS_API_KEY gives true voice cloning; without it, local pitch-shift approximation is used.",
+  "llm_provider": "openrouter",
+  "gemini_model": "gemini-2.5-flash",
+  "openrouter_model": "meta-llama/llama-3.3-70b-instruct:free",
+  "os_system": "auto",
+  "language": "auto",
+  "user_name": "sir",
+  "user_location": ""
+}

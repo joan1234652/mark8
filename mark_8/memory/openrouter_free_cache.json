@@ -1,0 +1,225 @@
+{
+  "fetched_at": 1790321493.8529932,
+  "count": 24,
+  "models": [
+    {
+      "id": "stealth/space-bunny-alpha",
+      "label": "Space Bunny Alpha",
+      "context_window": 1000000,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nex-agi/nex-n2.5-mini:free",
+      "label": "Nex AGI: Nex-N2.5-Mini (free)",
+      "context_window": 262144,
+      "tags": [
+        "lightweight"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nex-agi/nex-n2.5-pro:free",
+      "label": "Nex AGI: Nex-N2.5-Pro (free)",
+      "context_window": 262144,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-sante:free",
+      "label": "inclusionAI: Ling 3.0 Flash Sante (free)",
+      "context_window": 262144,
+      "tags": [
+        "fast",
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-fin:free",
+      "label": "inclusionAI: Ling 3.0 Flash Fin (free)",
+      "context_window": 262144,
+      "tags": [
+        "fast",
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "qwen/qwen3.8-27b:free",
+      "label": "Qwen: Qwen3.8 27B (free)",
+      "context_window": 262144,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "label": "Dots Studio: Dots3-Note Preview (free)",
+      "context_window": 512000,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "label": "LiquidAI: LFM2.5-2.6B (free)",
+      "context_window": 65536,
+      "tags": [
+        "lightweight"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "label": "NVIDIA: Nemotron 3.5 Lightning (free)",
+      "context_window": 1000000,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "thinkingmachines/inkling-small:free",
+      "label": "Thinking Machines: Inkling Small (free)",
+      "context_window": 1048576,
+      "tags": [
+        "reasoning"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "label": "Poolside: Laguna S 2.1 (free)",
+      "context_window": 262144,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "thinkingmachines/inkling:free",
+      "label": "Thinking Machines: Inkling (free)",
+      "context_window": 1048576,
+      "tags": [
+        "reasoning"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "label": "Poolside: Laguna XS 2.1 (free)",
+      "context_window": 262144,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "label": "Cohere: North Mini Code (free)",
+      "context_window": 256000,
+      "tags": [
+        "code"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "z-ai/glm-5.2:free",
+      "label": "Z.ai: GLM 5.2 (free)",
+      "context_window": 32768,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nvidia/nemotron-3.5-content-safety:free",
+      "label": "NVIDIA: Nemotron 3.5 Content Safety (free)",
+      "context_window": 128000,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "label": "NVIDIA: Nemotron 3 Ultra (free)",
+      "context_window": 1000000,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "label": "NVIDIA: Nemotron 3 Nano Omni (free)",
+      "context_window": 256000,
+      "tags": [
+        "reasoning"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "label": "Google: Gemma 4 26B A4B  (free)",
+      "context_window": 262144,
+      "tags": [
+        "fast",
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "label": "Google: Gemma 4 31B (free)",
+      "context_window": 262144,
+      "tags": [
+        "lightweight"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "label": "Google: Lyria 3 Pro Preview",
+      "context_window": 1048576,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "google/lyria-3-clip-preview",
+      "label": "Google: Lyria 3 Clip Preview",
+      "context_window": 1048576,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "label": "NVIDIA: Nemotron 3 Super (free)",
+      "context_window": 262144,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    },
+    {
+      "id": "openrouter/free",
+      "label": "Free Models Router",
+      "context_window": 200000,
+      "tags": [
+        "general"
+      ],
+      "description": "Discovered free model from OpenRouter API."
+    }
+  ]
+}
